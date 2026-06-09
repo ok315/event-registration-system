@@ -1,0 +1,4 @@
+data.json
+data.json.lock
+__pycache__/
+*.pyc
